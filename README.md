@@ -1,3 +1,4 @@
+数个经典语义分割模型，后期工作需要将此调试成功 2019年12月25日
 ## Introduction
 vedaseg is an open source semantic segmentation toolbox based on PyTorch.
 
